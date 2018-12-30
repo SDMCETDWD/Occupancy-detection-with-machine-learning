@@ -3,8 +3,8 @@ Machine learning code to decide whether the room is empty or not based on the fe
 
 Download the dataset [hear](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+#)
 
-
 !!! CODE INSIGHT!!!
+
 Line : Import all the required libraries and modules 
        [More datails about the SKlearn library](https://scikit-learn.org/stable/user_guide.html)
 

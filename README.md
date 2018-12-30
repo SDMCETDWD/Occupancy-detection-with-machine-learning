@@ -1,6 +1,8 @@
 # Occupancy-detection-with-machine-learning
 Machine learning code to decide whether the room is empty or not based on the features like Temperature, Humidity, Light, CO2, HumidityRatio
 
+Download the dataset [hear](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+#)
+
 The output of the Logistic funstion:
 * train_accuracy = 0.99
 * val_accuracy = 0.99

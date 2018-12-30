@@ -7,7 +7,7 @@ Download the dataset [hear](https://archive.ics.uci.edu/ml/datasets/Occupancy+De
 Line : Import all the required libraries and modules 
        [More datails about the SKlearn library](https://scikit-learn.org/stable/user_guide.html)
 
-       Download the dataset [hear](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+#)
+Download the dataset [hear](https://archive.ics.uci.edu/ml/datasets/Occupancy+Detection+#)
 Line : Load the downloaded dataset with pandas read() method
        [All about Pandas](https://pandas.pydata.org/pandas-docs/stable/)
 
